@@ -1,0 +1,46 @@
+El Rol de QA
+
+El aseguramiento de la calidad(Quality Assurance) es el conjunto de actividades planificadas y sistemáticas que se aplican en un proyecto para asegurar 
+el cumplimiento de estándares de calidad y cumplimiento de requerimientos.
+
+¿QUIÉN ES UN QA?
+•
+ElQAesquienseencargadevelarporelcumplimientodelosrequerimientosyestándaresdecalidad.
+•
+Busca que las cosas se hagan de la manera correcta desde el inicio.
+•
+No es “un tester ”
+•
+Es alguien muy detallista.
+
+El testador busca en el documento de arquitectura las restricciones a las cuales 
+el software debe obedecer. Además de eso, él espera que el software sea capaz de 
+ser testado y, por tanto, su arquitectura debe proporcionar tal atributo de calidad. 
+El nivel de testabilidad de un software está directamente conectado a la capacidad de él (o de sus partes) de ser puesto en ejecución en un entorno de
+desarrollo y de su comportamiento, interno o externo, ser verificable a partir del 
+esperado.
+
+
+
+The Role of QA
+
+Quality Assurance (QA) is the set of planned and systematic activities that are applied in a project to ensure compliance with quality standards 
+and fulfilment of requirements.
+
+WHO IS QA?
+-
+The QA is the person in charge of ensuring that requirements and quality standards are met.
+-
+Seeks to get things done the right way from the start.
+-
+It is not a "tester".
+-
+He is very detail oriented.
+
+The tester looks in the architecture document for the constraints to which the software must obey. 
+the software must obey. In addition to that, he expects the software to be able to be tested. 
+and, therefore, its architecture must provide such a quality attribute. 
+The level of testability of a software is directly connected to the ability of it (or its parts) to be implemented in a development environment 
+and to its behaviour, internal or external, of the software.
+environment and its behaviour, internal or external, to be verifiable from the expected one. 
+expected.
